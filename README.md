@@ -1,6 +1,6 @@
 Hi, I’m Ryan!
 
-I'm a software developer trying to make everyday better then the previous!
+I'm a software developer trying to make everyday better than the previous!
 
 <h2> Hey there! I’m Ryan.</h2>
 

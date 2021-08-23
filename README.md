@@ -31,7 +31,7 @@ I'm a software developer trying to make everyday better than the previous!
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Apache NetBeans](https://img.shields.io/badge/-Apache%20Netbeans-333333?style=flat&logo=Apache%20NetBeans%20IDE)
-  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij%20IDE&logoColor=2C2255)
+  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij%20IDEA&logoColor=2C2255)
 
 <br/>
 

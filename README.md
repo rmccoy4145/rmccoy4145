@@ -4,8 +4,8 @@
 
 - :rocket: &nbsp; Currently developing a RESTful API for a mobile app titled PennyBank.
 - 🎓 &nbsp; Graduate from George Mason University.
-- 🌱 &nbsp; Learning more about DevOps, Software Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Game Development, Web/Mobile Development, Audio Mixing & Mastering in my free time.
+- 🌱 &nbsp; Learning more about Game Development, Software Design and Artificial Intelligence.
+- ✍️ &nbsp; I love gaming and audio production/mixing
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

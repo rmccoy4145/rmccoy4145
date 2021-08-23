@@ -35,6 +35,7 @@
   ![Apache NetBeans](https://img.shields.io/badge/-Apache%20Netbeans-333333?style=flat&logo=Apache%20NetBeans%20IDE)
   ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij%20IDEA&logoColor=FF5733)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=32a852)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=4287f5)  
   
 <br/>
 

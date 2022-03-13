@@ -2,7 +2,7 @@
 
 <h3> :godmode: &nbsp;About Me </h3>
 
-- :rocket: &nbsp; Currently developing a RESTful API for a mobile app titled PennyBank.
+- :rocket: &nbsp; Currently supporting the PennyBank API.
 - 🎓 &nbsp; Graduate from George Mason University.
 - 🌱 &nbsp; Learning more about Game Development, Software Design and Artificial Intelligence.
 - ✍️ &nbsp; I love gaming and audio production/mixing

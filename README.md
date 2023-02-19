@@ -17,7 +17,8 @@
 - :nut_and_bolt: &nbsp;
   ![Java EE](https://img.shields.io/badge/-JavaEE-333333?style=flat&logo=Java&logoColor=007396)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=32a852)
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity&logoColor=FFFFFF)
+  ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=Godot&logoColor=FFFFFF)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=FFFFFF)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)    
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

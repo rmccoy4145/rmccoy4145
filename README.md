@@ -11,14 +11,14 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=Godot&logoColor=FFFFFF)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=FFFFFF)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=GNU%20Bash&logoColor=FFFFFF)
 - :nut_and_bolt: &nbsp;
   ![Java EE](https://img.shields.io/badge/-JavaEE-333333?style=flat&logo=Java&logoColor=007396)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=32a852)
-  ![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=Godot&logoColor=FFFFFF)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=FFFFFF)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)    
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

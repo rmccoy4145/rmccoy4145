@@ -31,11 +31,11 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Apache NetBeans](https://img.shields.io/badge/-Apache%20Netbeans-333333?style=flat&logo=Apache%20NetBeans%20IDE)
   ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij%20IDEA&logoColor=FF5733)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=32a852)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=4287f5)  
   
 <br/>

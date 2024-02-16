@@ -28,15 +28,14 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=PostgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=MongoDb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Apache NetBeans](https://img.shields.io/badge/-Apache%20Netbeans-333333?style=flat&logo=Apache%20NetBeans%20IDE)
   ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij%20IDEA&logoColor=FF5733)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=4287f5)  
   
 <br/>
 
@@ -55,7 +54,6 @@
 
 <h3> :fireworks: &nbsp;Links</h3>
 <p align="left">
-<a href="https://pennybank.online/">PennyBank.online</a>
 <a href="https://landing.dorpamine.com/">Dorpamine app</a>
 </p>
 

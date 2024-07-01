@@ -49,7 +49,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ryan-mccoy-0b777319"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan%20Alexander%20Mccoy-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ryanmccoy4145@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryan.mccoy85@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <h3> :fireworks: &nbsp;Links</h3>

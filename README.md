@@ -45,6 +45,9 @@
 
 <br/>
 
+<h3>Projects</h3>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=PIxelPioneer)](https://github.com/rmccoy4145/PIxelPioneer)
+<br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ryan-mccoy-0b777319"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan%20Alexander%20Mccoy-blue?style=flat-square&logo=linkedin"></a>

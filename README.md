@@ -47,6 +47,8 @@
 
 <h3>Projects</h3>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=paythebill)](https://github.com/rmccoy4145/paythebill)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=CharChat)](https://github.com/rmccoy4145/CharChat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=PixelPioneer)](https://github.com/rmccoy4145/PixelPioneer)
 
 <br/>

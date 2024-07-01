@@ -45,11 +45,12 @@
 
 <br/>
 
-<h3>Projects</h3>
+<h3> 🚧 &nbsp;A few Projects</h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=paythebill)](https://github.com/rmccoy4145/paythebill)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=CharChat)](https://github.com/rmccoy4145/CharChat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=PixelPioneer)](https://github.com/rmccoy4145/PixelPioneer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=YourStatus)](https://github.com/rmccoy4145/YourStatus)
 
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

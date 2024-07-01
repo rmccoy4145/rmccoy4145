@@ -46,7 +46,9 @@
 <br/>
 
 <h3>Projects</h3>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=PIxelPioneer)](https://github.com/rmccoy4145/PIxelPioneer)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rmccoy4145&repo=PixelPioneer)](https://github.com/rmccoy4145/PixelPioneer)
+
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">

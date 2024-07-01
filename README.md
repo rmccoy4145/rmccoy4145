@@ -40,6 +40,7 @@
 <br/>
 
 <a href="https://github.com/rmccoy4145">
+  <img src="https://myreadme.vercel.app/api/embed/rmccoy4145?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmccoy4145&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmccoy4145&theme=buefy&layout=compact" />
 </a>

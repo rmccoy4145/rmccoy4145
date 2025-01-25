@@ -2,7 +2,7 @@
 
 <h3> :godmode: &nbsp;About Me </h3>
 
-- :rocket: &nbsp; Currently working on a REST API for an app called Dorpamine as well as a mobile game in Godot.
+- :rocket: &nbsp; Passionate developer with experience spanning backend API development, mobile game creation, and AI-enabled applications, delivering scalable solutions across diverse projects.
 - 🎓 &nbsp; Graduate from George Mason University.
 - 🌱 &nbsp; Learning more about Game Development, Software Design and Artificial Intelligence.
 - ✍️ &nbsp; I love gaming and audio production/mixing
